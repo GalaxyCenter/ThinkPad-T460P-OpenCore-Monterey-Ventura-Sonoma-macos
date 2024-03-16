@@ -1,6 +1,4 @@
-## Thinkpad T460p opencore monterey + ventura
-
-* This repo is based on : https://github.com/MAYDAY818/Thinkpad-t460p-opencore
+## Thinkpad T460p opencore monterey + ventura + sonoma
 
 | *项目*     | *工作与否* |                            *备注*                            |
 | ---------- | :--------: | :----------------------------------------------------------: |
@@ -54,3 +52,4 @@ config.plist 中添加以下 DeviceProperties
 | ------ | --------------------- | -------- |
 | 笔记本 | MacBookPro14,1 及以后 | 官方支持 |
 
+2024-03 支持sonoma, Intel WIFI 蓝牙 显卡 声音正常
