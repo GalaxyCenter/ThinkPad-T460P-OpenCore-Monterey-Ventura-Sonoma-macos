@@ -60,10 +60,37 @@
 						<integer>3</integer>
 						<key>port</key>
 						<data>
-						BAAAAA==
+						AgAAAA==
 						</data>
 					</dict>
 					<key>PRT3</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						AwAAAA==
+						</data>
+					</dict>
+					<key>PRT4</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						BAAAAA==
+						</data>
+					</dict>
+					<key>PRT5</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						BQAAAA==
+						</data>
+					</dict>
+					<key>PRT6</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
@@ -72,7 +99,7 @@
 						BgAAAA==
 						</data>
 					</dict>
-					<key>PRT4</key>
+					<key>PRT7</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
@@ -81,7 +108,7 @@
 						BwAAAA==
 						</data>
 					</dict>
-					<key>PRT5</key>
+					<key>PRT8</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
@@ -90,7 +117,34 @@
 						CAAAAA==
 						</data>
 					</dict>
-					<key>PRT6</key>
+					<key>PRT9</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						DgAAAA==
+						</data>
+					</dict>
+					<key>PRT10</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						DwAAAA==
+						</data>
+					</dict>
+					<key>PRT11</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						EAAAAA==
+						</data>
+					</dict>
+					<key>PRT12</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
@@ -99,7 +153,16 @@
 						EQAAAA==
 						</data>
 					</dict>
-					<key>PRT7</key>
+					<key>PRT13</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>
+						EgAAAA==
+						</data>
+					</dict>
+					<key>PRT14</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
